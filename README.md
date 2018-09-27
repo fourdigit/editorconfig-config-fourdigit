@@ -14,6 +14,8 @@ npm install --save-dev @fourdigit/editorconfig-config-fourdigit
 
 ## Usage
 
+EditorConfig doesn't natively support sharing or extending configuration (see https://github.com/editorconfig/editorconfig/issues/236).
+As a stop-gap, we adopt postinstall script.
 Automatically install the file .editorconfig if your project not contain it.
 
 ## Update .editorconfig
