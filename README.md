@@ -1,6 +1,6 @@
 # Sharable EditorConfig for FOURDIGIT
 
-[![npm](https://img.shields.io/npm/v/@fourdigit/eslint-config-fourdigit.svg)](https://www.npmjs.com/package/@fourdigit/eslint-config-fourdigit)
+[![npm](https://img.shields.io/npm/v/@fourdigit/editorconfig-config-fourdigit.svg)](https://www.npmjs.com/package/@fourdigit/editorconfig-config-fourdigit)
 
 ## Installation
 
