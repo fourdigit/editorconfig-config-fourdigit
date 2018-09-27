@@ -1,6 +1,6 @@
 {
   "name": "@fourdigit/editorconfig-config-fourdigit",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "EdigorConfig shareable config for FOURDIGIT developers",
   "main": "index.js",
   "license": "MIT",
