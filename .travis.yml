@@ -1,0 +1,10 @@
+language: node_js
+node_js:
+- stable
+deploy:
+  provider: npm
+  email: vinhpq.tn@gmail.com
+  api_key:
+    secure: bsxyjQ5MRRNNWoERQ+R5Kf0ZjAXz+nOrYhAgJlo+frv5p3xiav+Wb+7UbagRK9R9y6eGcu85m/Yx5oWKChzorNQE1xlWNmnrZYgfkJLhzp4CVzzZM10WH9bsKdIi7IaaxWEeUUO8ydQMOrDx3CcrvlwOEHw+C22U8TYEkxbd84dT0j6KzPUIBXJkbxFyjXtVTnq2xUUqibSQTpDJEAMOTLY0E3NextXgksfnis30jVumN0rSyszuarY725usucOPkf1iwTg+rk46EMiM7e/F8Fly9HKQ7WuomgDfEpK+bOrO+w+XOTMS6RqptfE+UhO+mOgyeZ2WPdufx8p3TzDesDcf7sMRwPU1ULva2BVMJCfVh/ErFkPhN9lOl4slJwou6wjVVaR57I2GLDbuZyrb1eVYA7HNwDiqDVOT+Y1YehOaTAdEA27lKj3MUv2G+yXIocFiW3/00aY6UWt8ybtzjS9tkAzhyRrSjdGVxdddqxSrElvuR/PXUVqG82fhm69zWMexJ2gGee+6l1Bzg0SkWu7/CRtNf52/NfkEZuW5PMU7dur68mVv8FE31YhQwGWASRkndhszKcEsT6SufO/53ayjf3DLdjYKEskKwvABoTicFJsLUi5W3oQy25JxlVsxOUmvehi1i9yGoWGmTwfYsCEK4gqsYmwBUVxq8Iqa29c=
+  on:
+    branch: master
